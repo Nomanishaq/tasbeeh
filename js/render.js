@@ -1,0 +1,12 @@
+let container = document.getElementById("main-container"); 
+let btn = document.getElementById("btn");
+let tasbeeh = document.getElementById("tasbeeh");
+let count = document.getElementById("count-btn");
+let contentContainer = document.getElementById("content-container");
+let contentTitle = document.getElementById("content-title");
+let mainContent = document.getElementById("main-content");
+let limit = document.getElementById("limit");
+let resetbtn = document.getElementById("reset");
+let astagfar = document.getElementById("astagfar");
+let tasbeehVal = 0;
+tasbeeh.innerHTML = tasbeehVal;
